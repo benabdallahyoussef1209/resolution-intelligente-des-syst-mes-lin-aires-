@@ -1,1 +1,0 @@
-return np.linalg.solve(A, b)
