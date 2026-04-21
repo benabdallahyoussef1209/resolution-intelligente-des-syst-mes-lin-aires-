@@ -38,6 +38,8 @@ Le programme sélectionne automatiquement :
 - ✔️ LU sinon
 
 ---
+## 🚀 Live Demo
+https://ton-app.streamlit.app
 
 ## 📊 Exemple de données
 
