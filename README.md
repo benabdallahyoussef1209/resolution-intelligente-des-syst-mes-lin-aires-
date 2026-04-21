@@ -39,7 +39,7 @@ Le programme sélectionne automatiquement :
 
 ---
 ## 🚀 Live Demo
-https://ton-app.streamlit.app
+[https://ton-app.streamlit.app](https://hik8xgpjde7uqwf3wer7ut.streamlit.app/)
 
 ## 📊 Exemple de données
 
