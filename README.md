@@ -20,8 +20,8 @@ Décomposition de la matrice A en L et U, puis résolution en deux étapes :
 
 ### 3️⃣ Gauss-Seidel
 Méthode itérative efficace pour :
-- matrices à diagonale dominante
-- matrices symétriques définies positives
+- matrices à diagonale dominante.
+- matrices symétriques définies positives.
 
 ---
 
